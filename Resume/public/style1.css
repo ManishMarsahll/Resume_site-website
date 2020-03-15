@@ -1,0 +1,26 @@
+body
+{
+      height: 100vh;
+	  background:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(images/contact12.jpg);
+	  background-position:center;
+	  background-size:cover;
+      background-attachment:fixed;
+}
+h1{
+    size: 100px;
+    font-weight: 500;
+    margin-top: 20px;
+    text-align: center;
+    color: aliceblue;
+ 
+}
+
+#firebaseui-auth-container
+{
+    border:2px solid white;
+    border-width: 2px;
+    padding:10px 20px; 
+    margin-top: 20vh;
+    color: cornsilk;
+}
+
